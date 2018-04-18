@@ -10,3 +10,8 @@ Tällä projektilla saat yhden LEDin varmasti vilkkumaan. Mutta miten lisäisimm
 
 ## Projekti 2 - RGB LED
 Kolmivärinen LED. Miten eri arvot vaikuttavat väreihin? Entä mitä analogWrite()-tekee?
+
+## Projekti 3 - SOS LED
+Vilkutetaan SOS-merkki LEDillä. Mitä koodista puuttuu? Opettelemme myös for-loopin käyttöä ja hyödyllisyyttä, jottei aina tarvitse kirjoittaa niin paljon. 
+
+Entä osaisitko kirjoittaa oman nimesi morse-koodilla?
