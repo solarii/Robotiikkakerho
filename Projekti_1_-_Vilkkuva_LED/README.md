@@ -6,7 +6,8 @@ Opetin keväällä 2018 vanhan ala-asteeni Tuomalan koulun oppilaille elektronii
 Täältä löydät tarvittavat koodit omien projektien rakentamiseen.
 
 ## Projekti 1 - Vilkkuva LED
-Tällä projektilla saat yhden LEDin varmasti vilkkumaan. Mutta miten lisäisimme tähän toisen?
+Vilkkuva LED on hyvä projekti opetella Arduinon perusteita. Tässä liitämme LEDin kiinni Arduinoon ja saamme sen vilkkumaan.
 
-## Projekti 2 - RGB LED
-Kolmivärinen LED. Miten eri arvot vaikuttavat väreihin? Entä mitä analogWrite()-tekee?
+Asioita, joita voit harjoitella:
+* Muuta delay()-arvoja
+* Kokeile vaihtaa ledPin-arvoa. Mitä pitää silloin muuttaa elektroniikassa?
